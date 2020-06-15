@@ -1,0 +1,1 @@
+This homework is result of collaboration of Prokop Cerny, Jan Skala, Lukas Forst and Simon Manour. 
